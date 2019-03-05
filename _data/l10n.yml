@@ -73,6 +73,7 @@ it:
     attori: attori
     descrizione: descrizione
     risultati: risultati
+    aree-intervento: aree di intervento
     stato: stato
     completata: completata
     completo: completo
@@ -328,6 +329,7 @@ en:
     attori: players
     descrizione: description
     risultati: results
+    aree-intervento: areas of intervention
     stato: status
     completata: completed
     completo: complete

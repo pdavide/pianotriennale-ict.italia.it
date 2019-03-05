@@ -109,6 +109,14 @@
                   </ul>
                   {% endif %}
                 </div>
+                {% if linea-azione.aree-intervento %}
+                <div class="Grid-cell u-sizeFull u-sm-size1of5 u-md-size1of5 u-lg-size1of5 u-padding-r-left u-padding-r-right u-padding-top-xs">
+                  <span class="u-textItalic u-color-grey-90">{{ t.aree-intervento | capitalize }}:</span>
+                </div>
+                <div class="Grid-cell u-sizeFull u-sm-size4of5 u-md-size4of5 u-lg-size4of5 u-padding-r-left u-padding-r-right u-padding-top-xs u-padding-bottom-xxs">
+                  <div class="u-color-grey-90">{{ linea-azione.aree-intervento | replace: newLine, newParagraph | markdownify }}</div>
+                </div>
+                {% endif %}
                 {% if linea-azione.nota %}
                 <div class="Grid-cell u-sizeFull u-padding-r-left u-padding-r-right u-padding-top-s u-padding-bottom-xxs">
                   <div class="u-flex u-flexAlignItemsCenter">
