@@ -5,55 +5,55 @@ it:
     pdf: '/assets/pdf/'
   piano-triennale:
     forum: 'https://forum.italia.it/c/piano-triennale'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/01_piano-triennale-per-informatica-nella-pa.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/01_piano-triennale-per-informatica-nella-pa.html'
     pdf: '/assets/pdf/'
   contesto-normativo:
     forum: 'https://forum.italia.it/c/piano-triennale'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/02_contesto-normativo-europeo-e-nazionale.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/02_contesto-normativo-europeo-e-nazionale.html'
     pdf: '/assets/pdf/'
   infrastrutture:
     forum: 'https://forum.italia.it/c/piano-triennale/data-center-e-cloud'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/03_infrastrutture.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/03_infrastrutture.html'
     pdf: '/assets/pdf/'
   modello-di-interoperabilita:
     forum: 'https://forum.italia.it/c/piano-triennale/interoperabilita'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/04_modello-di-interoperabilita.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/04_modello-di-interoperabilita.html'
     pdf: '/assets/pdf/'
   dati-della-pa:
     forum: 'https://forum.italia.it/c/piano-triennale/dati'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/05_dati-della-pubblica-amministrazione.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html'
     pdf: '/assets/pdf/'
   piattaforme:
     forum: 'https://forum.italia.it/c/piano-triennale/piattaforme-abilitanti'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/06_piattaforme'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/06_piattaforme.html'
     pdf: '/assets/pdf/'
   ecosistemi:
     forum: 'https://forum.italia.it/c/piano-triennale/ecosistemi'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/07_ecosistemi'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/07_ecosistemi.html'
     pdf: '/assets/pdf/'
   sicurezza:
     forum: 'https://forum.italia.it/c/piano-triennale/sicurezza'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/08_sicurezza-informatica.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/08_sicurezza-informatica.html'
     pdf: '/assets/pdf/'
   strumenti-per-la-generazione-e-la-diffusione-di-servizi-digitali:
     forum: 'https://forum.italia.it/c/piano-triennale/servizi-digitali'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/09_strumenti-per-la-generazione-e-la-diffusione-di-servizi-digitali.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/09_strumenti-per-la-generazione-e-la-diffusione-di-servizi-digitali.html'
     pdf: '/assets/pdf/'
   modelli-e-strumenti-innovazione:
     forum: 'https://forum.italia.it/c/piano-triennale/'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/10_modelli-e-strumenti-innovazione.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/10_modelli-e-strumenti-innovazione.html'
     pdf: '/assets/pdf/'
   governare-la-trasformazione-digitale:
     forum: 'https://forum.italia.it/c/piano-triennale/'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/11_governare-la-trasformazione-digitale.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/11_governare-la-trasformazione-digitale.html'
     pdf: '/assets/pdf/'
   razionalizzazione-della-spesa:
     forum: 'https://forum.italia.it/c/piano-triennale/razionalizzazione-della-spesa'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/12_razionalizzazione-della-spesa.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/12_razionalizzazione-della-spesa.html'
     pdf: '/assets/pdf/'
   indicazioni-per-le-pa:
     forum: 'https://forum.italia.it/c/piano-triennale'
-    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/doc/13_indicazioni-per-le-pubbliche-amministrazioni.html'
+    rtd: 'https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/13_indicazioni-per-le-pubbliche-amministrazioni.html'
     pdf: '/assets/pdf/'
 en:
   piano-triennale-index:

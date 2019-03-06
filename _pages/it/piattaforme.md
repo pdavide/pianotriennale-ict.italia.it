@@ -5,8 +5,7 @@ layout: page
 separator: curved
 title-alignment: center
 cta-buttons: true
-chapter: infrastrutture-immateriali
-subchapter: piattaforme-abilitanti
+chapter: piattaforme
 linee-azione: true
-ref: piattaforme-abilitanti
+ref: piattaforme
 ---

@@ -7,5 +7,5 @@ title-alignment: center
 cta-buttons: true
 chapter: modello-di-interoperabilita
 linee-azione: true
-ref: interoperabilita
+ref: modello-di-interoperabilita
 ---

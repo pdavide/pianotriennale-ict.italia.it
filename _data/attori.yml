@@ -1,15 +1,15 @@
 ﻿it:
   team-digitale:
-    nome: Team digitale
+    nome: Team per la trasformazione digitale
     tipo: amministrazioni_centrali
   agid:
-    nome: AgID
+    nome: AGID
     tipo: amministrazioni_centrali
   pa:
     nome: PA
     tipo: amministrazioni_centrali_e_territoriali
   tutte-le-pa:
-    nome: tutte le PA
+    nome: Tutte le PA
     tipo: amministrazioni_centrali_e_territoriali
   comuni:
     nome: Comuni
@@ -47,14 +47,8 @@
   bdi:
     nome: Banca d'Italia
     tipo: amministrazioni_centrali
-  bdt-pa:
-    nome: Big Data Team della Pubblica Amministrazione
-    tipo: amministrazioni_centrali
   garante-privacy:
     nome: Garante Privacy
-    tipo: amministrazioni_centrali
-  daf:
-    nome: DAF
     tipo: amministrazioni_centrali
   dfp:
     nome: Dipartimento della Funzione Pubblica
@@ -71,18 +65,12 @@
   salute:
     nome: Ministero della Salute
     tipo: amministrazioni_centrali
-  asl:
-    nome: ASL
-    tipo: amministrazioni_territoriali
   istat:
     nome: ISTAT
     tipo: amministrazioni_centrali
   miur:
     nome: Ministero dell'Istruzione, dell'Università e della Ricerca
     tipo: amministrazioni_centrali
-  altri-organismi-tecnici:
-    nome: Altri organismi tecnici
-    tipo: amministrazioni_centrali_e_territoriali
   gestori-pubblici-servizi:
     nome: Gestori di pubblici servizi
     tipo: amministrazioni_centrali_e_territoriali
@@ -115,10 +103,10 @@
     tipo: amministrazioni_centrali_e_territoriali
   fornitori:
     nome: Aziende fornitrici
-    tipo:
+    tipo: amministrazioni_centrali_e_territoriali
   soggetti-obbligati:
     nome: Soggetti obbligati ad aderire
-    tipo:
+    tipo: amministrazioni_centrali_e_territoriali
   prestatori-servizio-pagamenti:
     nome: Prestatori di Servizi di Pagamento aderenti
     tipo:
@@ -141,14 +129,14 @@
     nome: Associazioni di categoria
     tipo:
   consulenti-settore:
-    nome: consulenti di settore
+    nome: Consulenti di settore
     tipo:
   aid:
     nome: Agenzia Industrie Difesa
     tipo: amministrazioni_centrali
   notariato:
     nome: Consiglio Nazionale del Notariato
-    tipo:
+    tipo: amministrazioni_centrali
   dg-archivi:
     nome: Direzione generale Archivi
     tipo: amministrazioni_centrali

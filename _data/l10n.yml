@@ -25,10 +25,11 @@ it:
     in_collaboration_with: In collaborazione con
     footer_note: Cover image courtesy of [Matteo Vistocco](https://unsplash.com/@biscuits94)
     footer_public_domain: Donazione al Pubblico Dominio
-    actions_progress: in corso
-    actions_from: 'da '
+    actions_progress: In corso
+    actions_from: 'Da '
     actions_to: ' a '
-    actions_by: 'entro '
+    actions_by: 'Entro '
+    actions_at: 'A '
     get_json: Scarica il JSON
     months:
       '01': gennaio
@@ -204,36 +205,33 @@ it:
       servizi-digitali: 
         name: Servizi digitali
         ref: servizi-digitali
+      modelli-e-strumenti-innovazione:
+        name: Modelli e strumenti per l'innovazione
+        ref: modelli-e-strumenti-innovazione
       ecosistemi: 
         name: Ecosistemi
         ref: ecosistemi
-      modello-di-interoperabilita: 
-        name: Modello di interoperabilità
-        ref: modello-di-interoperabilita
       piattaforme:
         name: Piattaforme
         ref: piattaforme
       dati-della-pa: 
         name: Dati della PA
         ref: dati-della-pa
+      modello-di-interoperabilita: 
+        name: Modello di interoperabilità
+        ref: modello-di-interoperabilita
       infrastrutture: 
         name: Infrastrutture
         ref: infrastrutture
-      sicurezza: 
-        name: Sicurezza
-        ref: sicurezza
-      gestione-del-cambiamento: 
-        name: Gestione del cambiamento
-        ref: gestione-del-cambiamento
-      razionalizzazione-della-spesa:
-        name: Razionalizzazione della spesa
-        ref: razionalizzazione-della-spesa
       governare-la-trasformazione-digitale:
         name: Governare la trasformazione digitale
         ref: governare-la-trasformazione-digitale
-      modelli-e-strumenti-innovazione:
-        name: Modelli e strumenti per l'innovazione
-        ref: modelli-e-strumenti-innovazione
+      sicurezza: 
+        name: Sicurezza
+        ref: sicurezza
+      pdnd:
+        name: Piattaforma Nazionale Digitale Dati
+        ref: dati-della-pa
     gov_full: Presidenza del Consiglio dei Ministri
     gov_link: http://www.governo.it
     gov_logo: /assets/images/governo.svg
@@ -278,10 +276,11 @@ en:
     footer_link_legal_notes: legal notices
     footer_link_credits: credits
     footer_title: ''
-    actions_progress: in progress
-    actions_from: 'from '
+    actions_progress: In progress
+    actions_from: 'From '
     actions_to: ' to '
-    actions_by: 'by '
+    actions_by: 'By '
+    actions_at: 'In '
     get_json: Get JSON
     months:
       '01': january

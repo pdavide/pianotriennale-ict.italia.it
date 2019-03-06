@@ -1,11 +1,10 @@
-### start data-center-e-cloud
 it:
 ### start infrastrutture
   - chapter: infrastrutture
     subchapter: cloud-della-pa
     numero: 1
     nome: Attuazione del Programma nazionale di abilitazione al Cloud della PA
-    stato: In corso
+    stato: in corso 
     attori: [ agid, team-digitale, consip ]
     descrizione: |
       Definizione delle linee guida per lo sviluppo di servizi cloud native per il Cloud della PA e del Modello di abilitazione al Cloud della PA, nell’ambito del Programma.
@@ -24,7 +23,7 @@ it:
     subchapter: cloud-della-pa
     numero: 2
     nome: Migrazione dei sistemi informativi delle PA verso il cloud
-    stato: In corso
+    stato: in corso 
     attori: [ pa, agid, team-digitale ]
     descrizione: |
       Un gruppo di amministrazioni pilota individuate da AGID e Team per la trasformazione digitale eseguono i piani di migrazione dei sistemi informativi verso il Cloud della PA definiti nell’ambito del Programma nazionale di abilitazione al Cloud.
@@ -41,7 +40,7 @@ it:
     subchapter: cloud-della-pa
     numero: 3
     nome: Definizione dei requisiti tecnici delle infrastrutture IT
-    stato: In corso
+    stato: in corso 
     attori: [ agid, team-digitale ]
     descrizione: |
       AGID e Team per la trasformazione digitale definiscono lo scopo e le finalità dei PSN oltre a dettagliare i requisiti tecnici relativi alle caratteristiche dei siti geografici dei data center e alla gestione operativa e tecnica dei PSN.
@@ -66,7 +65,7 @@ it:
     subchapter: data-center
     numero: 4
     nome: Comunicazione dei risultati del censimento del Patrimonio ICT
-    stato: In corso
+    stato: in corso 
     attori: [ agid ]
     descrizione: |
       In seguito alla conclusione del censimento del patrimonio ICT della PA, AGID comunica alle PA l’esito della classificazione delle infrastrutture fisiche secondo le tre categorie (candidabili a PSN, Gruppo A, Gruppo B).
@@ -80,7 +79,7 @@ it:
     subchapter: data-center
     numero: 5
     nome: Avvio del consolidamento e della dismissione dei data center di Gruppo A
-    stato: In corso
+    stato: in corso 
     attori: [ agid, team-digitale, pa ]
     descrizione: |
       I soggetti detentori delle infrastrutture fisiche delle PA appartenenti al Gruppo A pianificano congiuntamente ad AGID e Team per la trasformazione digitale il consolidamento dei data center secondo quanto previsto dal Programma nazionale di abilitazione al Cloud della PA. AGID e Team per la trasformazione digitale assicurano il controllo e monitoraggio dei piani di migrazione trasmessi dalle PA.
@@ -94,7 +93,7 @@ it:
     subchapter: data-center
     numero: 6
     nome: Dismissione dei data center di Gruppo B 
-    stato: In corso
+    stato: in corso 
     attori: [ agid, team-digitale, pa ]
     descrizione: |
       Le infrastrutture fisiche delle PA appartenenti al Gruppo B provvedono alla migrazione al Cloud della PA secondo quanto previsto dal Programma nazionale di abilitazione al Cloud della PA. Le PA comunicano ad AGID il numero dei data center dismessi. AGID e Team per la trasformazione digitale elaborano i rapporti sullo stato di avanzamento dei data center dismessi.
@@ -125,7 +124,7 @@ it:
     subchapter: connettività
     numero: 8
     nome: Adeguamento della capacità di connessione della PA
-    stato: In corso
+    stato: in corso 
     attori: [ pa ]
     descrizione: |
       Le amministrazioni adeguano la propria capacità di connessione per garantire il completo dispiegamento dei servizi e delle piattaforme, adottando alternativamente:
@@ -141,7 +140,7 @@ it:
     subchapter: connettività
     numero: 9
     nome: Operatività dei nuovi contratti per la connettività S-RIPA per le sedi estere delle Pubbliche Amministrazioni
-    stato: In corso
+    stato: in corso 
     attori: [ sedi-estere-pa, consip ]
     descrizione: |
       Consip ha indetto la gara a procedura ristretta per la stipula di un accordo quadro avente ad oggetto la progettazione della rete e l’erogazione dei servizi di connettività della Rete Internazionale della PA, nonché servizi di sicurezza, VoIP, comunicazione evoluta e servizi professionali. È in corso l’aggiudicazione. L’accordo quadro avrà una durata di 60 mesi, decorrenti dalla data di attivazione. Successivamente, le sedi estere potranno procedere con la migrazione e l’utilizzo dei servizi della nuova S-RIPA. 
@@ -155,7 +154,7 @@ it:
     subchapter: connettività
     numero: 10
     nome: Realizzazione dei servizi in conformità alle Linee guida per la realizzazione di reti wi-fi pubbliche
-    stato: In corso
+    stato: in corso 
     attori: [ pa ]
     descrizione: |
       AGID pubblica in consultazione le Linee guida per l’utilizzo delle wi-fi che le pubbliche amministrazioni rendono accessibili ai cittadini negli uffici e nei luoghi pubblici, redatte anche sulla base delle migliori esperienze di wi-fi pubblico già in essere nella PA. 
@@ -254,8 +253,8 @@ it:
   - chapter: dati-della-pa
     subchapter: basi-dati-interessa-nazionale
     numero: 15
-    nome: Implementazione standard Geo -DCAT-AP_IT
-    stato: In corso 
+    nome: Implementazione standard Geo - DCAT-AP_IT
+    stato: in corso  
     attori: [ agid, pa ]
     descrizione: |
       Il rilascio della nuova versione del Repertorio nazionale dei dati territoriali consente di procedere alle attività di sviluppo applicativo per l’implementazione dello standard GeoDCAT-AP, in coerenza con le indicazioni contenute nelle [Linee guida](http://geodati.gov.it/geoportale/documenti/12-documenti/277-linee-guida-nazionali-geodcat-ap) rese disponibili da AGID (obiettivo del precedente Piano Triennale 2017-2019).
@@ -271,7 +270,7 @@ it:
     subchapter: basi-dati-interessa-nazionale 
     numero: 16
     nome: Disponibilità Catalogo dei servizi (servizi.gov.it)
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, pa ]
     descrizione: |
       AGID implementa nuove funzionalità del Catalogo dei servizi (servizi.gov.it) volte alla completa interoperabilità con sistemi terzi e attua iniziative finalizzate al popolamento del Catalogo. Le PA procedono al popolamento del Catalogo sia in maniera diretta (attraverso backend), sia attraverso terze parti (API).
@@ -287,7 +286,7 @@ it:
     subchapter: basi-dati-interessa-nazionale
     numero: 17
     nome: Completamento del popolamento di ANPR
-    stato: In corso  
+    stato: in corso   
     attori: [ interno, sogei, comuni ]
     descrizione: |
       Completamento del popolamento di ANPR con i dati delle anagrafi comunali (APR) e delle anagrafi della popolazione residente all’estero (AIRE). 
@@ -315,7 +314,7 @@ it:
     subchapter: basi-dati-interessa-nazionale
     numero: 19
     nome: Adozione delle Linee Guida IPA
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa, gestori-pubblici-servizi ]
     descrizione: |
       AGID ha redatto le Linee Guida relative alle Regole tecniche da seguire per l’iscrizione e l’aggiornamento dei dati in IPA.  Le amministrazioni e i gestori di pubblici servizi devono attenersi alle regole prescritte.  
@@ -403,7 +402,7 @@ it:
     subchapter: vocabolari-controllati 
     numero: 25
     nome: Sviluppo ontologie
-    stato: In corso
+    stato: in corso 
     attori: [ agid, tutte-le-pa ]
     descrizione: |
       Sviluppo di ontologie su input e in collaborazione con:
@@ -419,7 +418,7 @@ it:
     subchapter: pdnd 
     numero: 26 
     nome: Progettazione della PDND, sperimentazione e prima applicazione della stessa
-    stato: In corso  
+    stato: in corso   
     attori: [ pcm, team-digitale, garante-privacy ]
     descrizione: |
       La PDND si basa sullo sviluppo di una Piattaforma big data e sulla costituzione di un team di data scientist, big data architect e data engineer. Il Team per la trasformazione digitale, ha il compito di gestire attivamente la fase di sviluppo concettuale e implementativo dell’infrastruttura, insieme a tutte le fasi del ciclo di vita del dato, dall’ingestione all’analisi e sviluppo di applicazioni. Il Team per la trasformazione digitale progetta e, sentito il Garante per la protezione dei dati personali, definisce le modalità realizzative e di uso della Piattaforma big data della PA attraverso:
@@ -477,7 +476,7 @@ it:
     subchapter: public-e-procurement   
     numero: 29
     nome: Messa in esercizio della BDOE
-    stato: In corso 
+    stato: in corso  
     attori: [ mit, agid, anac, pa-basi-dati, soggetti-aggregatori ]
     descrizione: |
       A seguito della messa in esercizio della BDOE da parte del MIT, saranno individuate le linee di intervento evolutive cui si dovranno adeguare le stazioni appaltanti per integrare le proprie piattaforme di acquisto alla BDOE.
@@ -521,7 +520,7 @@ it:
     subchapter: pagopa 
     numero: 32
     nome: Evoluzione tecnologica della piattaforma
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, team-digitale, bdi ]
     descrizione: |
       Continuo adeguamento tecnologico della piattaforma agli standard dei servizi di pagamento previsti dagli standard europei e internazionali in collaborazione e attraverso il coordinamento di Banca d’Italia per ottenere un miglioramento continuo dell’esperienza dei cittadini, delle pubbliche amministrazioni e dei Prestatori di Servizi di Pagamento. 
@@ -535,7 +534,7 @@ it:
     subchapter: pagopa   
     numero: 33 
     nome: Completamento dell’adesione alla piattaforma
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, team-digitale, soggetti-obbligati ]
     descrizione: |
       Completamento dell’attivazione dei servizi da parte di tutti i soggetti obbligati all’adesione alla piattaforma dei pagamenti entro i termini previsti dal CAD.
@@ -550,7 +549,7 @@ it:
     subchapter: pagopa   
     numero: 34
     nome: Monitoraggio tecnico e dell’attivazione dei servizi
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, team-digitale, soggetti-obbligati, prestatori-servizio-pagamenti ]
     descrizione: |
       AGID effettua sia il monitoraggio continuo dello stato di avanzamento dell’attivazione dei servizi da parte dei soggetti obbligati ad aderire a pagoPA, sia il monitoraggio continuo delle performance del sistema e dell’efficacia delle procedure operative, rispetto ad indicatori di qualità definiti. Rileva la presenza di problemi, individua le soluzioni e mette in atto azioni di accompagnamento.
@@ -564,7 +563,7 @@ it:
     subchapter: siope+
     numero: 35
     nome: Dispiegamento del sistema SIOPE+ 
-    stato: In corso  
+    stato: in corso   
     attori: [ rgs, bdi, agid, pa ]
     descrizione: |
       A fronte della conclusione delle fasi di sperimentazione, chiuse nel 2017, il sistema è andato a regime nel 2018 per tutti i Comuni, le Regioni, le ASL e le Aziende ospedaliere. Da gennaio 2019 entrano in SIOPE+ anche le Università, Enti di Ricerca, Autorità Portuali, Enti Parco e, con successivi decreti, verranno individuati gli ulteriori enti (scuole, istituti di formazione, ecc.).
@@ -599,7 +598,7 @@ it:
     subchapter: noipa
     numero: 37
     nome: Evoluzione del sistema NoiPA e valorizzazione del patrimonio informativo gestito
-    stato: In corso  
+    stato: in corso   
     attori: [ mef, agid, pa, dfp, inps ]
     descrizione: |
       Le attività previste sono:
@@ -624,7 +623,7 @@ it:
     subchapter: spid
     numero: 38
     nome: Linee Guida SPID 
-    stato: In corso  
+    stato: in corso   
     attori: [ agid ]
     descrizione: |
       Al fine di favorire l’avvio dell’iter per l’emanazione ai sensi dell’art 71 del CAD, AGID predispone e pubblica in consultazione Linee guida relative ai seguenti argomenti:
@@ -652,7 +651,7 @@ it:
     subchapter: spid
     numero: 39
     nome: Attività a seguito della notifica di SPID alla Commissione Europea
-    stato: In corso
+    stato: in corso 
     attori: [ agid, ce, stati-membri, pa ]
     descrizione: |
       Riconoscimento del sistema di identificazione elettronica SPID da parte degli altri Stati membri e possibilità di utilizzo per l’accesso ai servizi in rete della PA.
@@ -666,7 +665,7 @@ it:
     subchapter: spid
     numero: 40
     nome: Integrazione con le identità digitali a livello europeo
-    stato: In corso  
+    stato: in corso   
     attori: [ agid ]
     descrizione: |
       Le identità digitali, notificate ai sensi del regolamento eIDAS, consentiranno di accedere ai servizi offerti da tutti gli Stati membri dell’Unione Europea. Attraverso il progetto FICEP è in via di completamento il primo “server trasfrontaliero italiano” che consente circolarità delle identità digitali.  
@@ -682,7 +681,7 @@ it:
     subchapter: spid
     numero: 41
     nome: Analisi diffusione di SPID ai fini dello switch-off
-    stato: In corso 
+    stato: in corso  
     attori: [ agid ]
     descrizione: |
       AGID sviluppa uno studio sulla stabilità del sistema SPID ai fini del suo utilizzo esclusivo quale sistema di identificazione ai servizi online, ai sensi dell’art. 64 del CAD.
@@ -696,7 +695,7 @@ it:
     subchapter: cie
     numero: 42
     nome: Emissione della CIE all’estero
-    stato: In corso   
+    stato: in corso    
     attori: [ agid, interno, mae, comuni, ipzs ]
     descrizione: |
       Rendere le sedi di alcuni Consolati pilota in grado di accettare le richieste di CIE da parte degli italiani residenti all’estero.
@@ -710,7 +709,7 @@ it:
     subchapter: cie 
     numero: 43
     nome: Notifica eIDAS
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, interno, ipzs ]
     descrizione: |
       Riconoscimento della CIE come strumento di autenticazione ai servizi in rete della PA degli altri Stati membri della UE. Predisposizione da parte di AGID del processo previsto per la necessaria notifica alla Commissione Europea del sistema CIE come mezzo di identificazione elettronica riconosciuto tra gli Stati membri della UE, come previsto dall’art. 9 del Regolamento eIDAS e successiva Decisione Esecutiva EU 2015/1984.
@@ -738,7 +737,7 @@ it:
     subchapter: sgpa
     numero: 45 
     nome: Nuove Linee Guida per la formazione, gestione e conservazione dei documenti informatici 
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, conferenza-stato-regioni, garante-privacy, amministrazioni-partecipanti ]
     descrizione: |
       Attraverso l’analisi dettagliata delle regole tecniche vigenti, si intendono aggiornare le attuali Linee guida e addivenire ad un unicum che contempli tutti gli aspetti previsti all’art. 71 dal nuovo CAD (ex D.Lgs. 217/2017) in materia di formazione, gestione e conservazione del documento digitale. 
@@ -771,7 +770,7 @@ it:
     subchapter: poli-conservazione  
     numero: 47
     nome: Progetto di redazione di linee guida di interoperabilità tra sistemi di conservazione 
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, aid, notariato, acs, dg-archivi ]
     descrizione: |
       Gli attori condividono le esperienze maturate in materia di conservazione dei documenti informatici, con particolare attenzione alle soluzioni metodologiche, organizzative e tecniche adottate, nonché all’analisi delle tipologie di documenti e oggetti digitali (testo, immagini, filmati) prodotti e che dovranno essere oggetto di conservazione da parte della PA (formati, procedure di sicurezza, firme, dematerializzazione). È svolta una sperimentazione finalizzata a identificare e analizzare eventuali problematiche nella trasmissione di pacchetti di conservazione tra le parti e a individuare le modalità di comunicazione più idonee adottabili per la comunicazione tra diversi sistemi di conservazione. Gli attori definiscono infine uno schema architetturale e funzionale di procedure che consentano la conservazione permanente e le attività di scarto e di controllo su fascicoli e documenti che devono andare in conservazione. 
@@ -790,7 +789,7 @@ it:
     subchapter: poli-conservazione 
     numero: 48 
     nome: Progetto di dematerializzazione documenti della PA
-    stato: In corso
+    stato: in corso 
     attori: [ agid, pa ]
     descrizione: |
       Promuovere la piena digitalizzazione dell’attività amministrativa attraverso la progressiva dematerializzazione degli archivi correnti. Supportare le amministrazioni nell’individuazione di soluzioni e modelli organizzativi orientati alla completa digitalizzazione dei processi. Le amministrazioni comunicano ad AGID l’avvio e la conclusione del processo di dematerializzazione avviato all’interno di ciascuna Area Organizzativa Omogenea (AOO). AGID pubblica il primo report a fine 2021. 
@@ -804,7 +803,7 @@ it:
     subchapter: anpr
     numero: 49
     nome: Promozione della circolarità anagrafica
-    stato: In corso  
+    stato: in corso   
     attori: [ interno, agid, sogei, pa, gestori-pubblici-servizi, società-controllo-pubblico ]
     descrizione: |
       La linea di azione si sviluppa in due fasi:
@@ -826,7 +825,7 @@ it:
     subchapter: anpr
     numero: 50
     nome: Visura anagrafica e Certificazione anagrafica nazionale
-    stato: In corso  
+    stato: in corso   
     attori: [ interno, agid, sogei ]
     descrizione: |
       ANPR permette a tutti i cittadini di visualizzare, anche attraverso SPID, la propria situazione anagrafica (visura anagrafica), e quella della famiglia anagrafica in cui è inserito, consultabili tramite web app resa disponibile a livello nazionale.
@@ -903,7 +902,7 @@ it:
   - chapter: sicurezza-informatica 
     numero: 55
     nome: CERT-PA - ampliamento capacità operativa
-    stato: In corso  
+    stato: in corso   
     attori: [ agid ]
     descrizione: |
       CERT-PA, operante dal 2013, aumenterà progressivamente la sua capacità operativa, rafforzando l’infrastruttura ICT di erogazione dei servizi di base e potenziando il primo sistema informativo sulle minacce cibernetiche (Cyber Security Knowledge Base), anche attraverso l’implementazione delle soluzioni [Infosharing CERT-PA](https://portal.cert-pa.it/web/guest/login) e National Vulnerability Database(NVD).
@@ -929,7 +928,7 @@ it:
   - chapter: sicurezza-informatica  
     numero: 57
     nome: Adeguamento delle PA agli standard Trasmissione automatizzata IoC 
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, pa ]
     descrizione: |
       Definizione degli standard per la trasmissione automatizzata degli indicatori di compromissione (IoC), emanazione delle linee guida del modello architetturale per la trasmissione automatizzata degli IoC.
@@ -945,7 +944,7 @@ it:
   - chapter: sicurezza-informatica  
     numero: 58
     nome: Realizzazione piattaforma nazionale della PA per la trasmissione automatizzata degli IoC
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa ]
     descrizione: |
       AGID realizza, in via sperimentale, per le pubbliche amministrazioni, una piattaforma nazionale di trasmissione automatizzata degli IoC.
@@ -958,7 +957,7 @@ it:
   - chapter: sicurezza-informatica 
     numero: 59
     nome: Segnalazioni incidenti Informatici al CERT-PA
-    stato: In corso  
+    stato: in corso   
     attori: [ pa ]
     descrizione: |
       Tutte le pubbliche amministrazioni sono tenute a monitorare e segnalare prontamente al CERT-PA gli incidenti informatici e ogni situazione di potenziale rischio, utilizzando i canali di comunicazione riportati nella [sezione dedicata del sito AGID](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/cert-pa). Per tutti i soggetti accreditati su Infosharing CERT-PA è disponibile un’apposita funzionalità di segnalazione. 
@@ -971,7 +970,7 @@ it:
   - chapter: sicurezza-informatica 
     numero: 60
     nome: Emanazione Linee Guida di sicurezza cibernetica per le PA 
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa ]
     descrizione: |
       A supporto e complemento delle Misure minime di sicurezza ICT, documento di natura prescrittiva che indirizza adempimenti tecnici puntuali, AGID emana documenti che indirizzano i temi strategici, organizzativi ed operativi necessari alle PA per innalzare il proprio livello di sensibilità, conoscenza, preparazione e capacità di risposta relativamente alla crescente minaccia cibernetica. 
@@ -989,7 +988,7 @@ it:
     subchapter: designers-italia
     numero: 61
     nome: Adeguamento alle Linee guida di design dei siti e servizi web delle PA 
-    stato: In corso  
+    stato: in corso   
     attori: [ pa ]
     descrizione: |
       Le PA centrali indicate nella [Determinazione AGID n.36/2018](https://www.agid.gov.it/sites/default/files/repository_files/36_-_dt_dg_n._36_-_12_feb_2018_-_riorganizzazione_dominio_gov_22.12.2017_003_1_4.pdf) e non ancora aderenti alle Linee guida di design, nonché le PA regionali e locali, comunicano  ad AGID la data entro cui termineranno i lavori di adeguamento.
@@ -1047,7 +1046,7 @@ it:
     subchapter: accessibilita
     numero: 65
     nome: Pubblicazione obiettivi di accessibilità
-    a: 03/19
+    entro: 03/19
     attori: [ pa ]
     descrizione: |
       Le PA effettuano annualmente una ricognizione interna circa gli interventi e le soluzioni da porre in essere per migliorare l’accessibilità dei siti e dei servizi online erogati (ad es. i corsi di aggiornamento sull’accessibilità, inclusi quelli relativi alle modalità di creazione, gestione e aggiornamento di contenuti accessibili dei siti web e delle applicazioni mobili oppure l’eliminazione dei documenti in formato immagine), inserendo anche la previsione temporale per la realizzazione di tali interventi e lo comunicano negli obiettivi di accessibilità.
@@ -1061,7 +1060,7 @@ it:
     subchapter: accessibilita
     numero: 66
     nome: Attuazione Direttiva europea 2016/2102 sull’accessibilità dei siti web
-    stato: In corso 
+    stato: in corso  
     attori: [ pa ]
     descrizione: |
       I siti web pubblicati dopo il mese di settembre 2018 dovranno essere aderenti agli adempimenti previsti dalla Direttiva europea recepita col D.Lgs. 106/2018.
@@ -1186,7 +1185,7 @@ it:
     subchapter: dominio-gov-it
     numero: 74
     nome: Supporto alla migrazione verso il dominio .edu e il dominio .it
-    stato: In corso 
+    stato: in corso  
     attori: [ miur, cnr, agid, pa-locali, istituzioni-scolastiche ]
     descrizione: |
       AGID, CNR e MIUR hanno costituito un tavolo di lavoro per supportare il passaggio degli istituti scolastici al dominio “.edu.it”. MIUR e CNR hanno predisposto una [pagina informativa](http://www.miur.gov.it/web/guest/nuovo-dominio-edu.it) di supporto. AGID ha pubblicato una [manifestazione d’interesse](https://www.agid.gov.it/sites/default/files/repository_files/manifestazioneinteresse_7set2018_uv.pdf) rivolta ai fornitori di servizi di gestione dei domini internet alle PA individuate dalla  Determinazione n.36/2018 per la richiesta di disponibilità a fornire, nel periodo transitorio, i servizi necessari alla corretta migrazione dei domini. 
@@ -1206,7 +1205,7 @@ it:
     subchapter: piattaforma-procurement
     numero: 75
     nome: Attivazione e sperimentazione della Piattaforma per gli appalti di innovazione
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, stakeholder ]
     descrizione: |
       Quest’azione mira a rilasciare:
@@ -1224,7 +1223,7 @@ it:
     subchapter: piattaforma-procurement
     numero: 76
     nome: Promozione e monitoraggio degli appalti di innovazione
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa ]
     descrizione: |
       Sollecitare le amministrazioni all’utilizzo delle pratiche per appalti di innovazione: consultazioni di mercato, procedure negoziate, dialogo competitivo, partenariato per l’innovazione a condividere le informazioni chiave, così da favorire:
@@ -1241,7 +1240,7 @@ it:
     subchapter: smart-landscape
     numero: 77
     nome: Definizione e implementazione del modello Smart Landscape 
-    stato: In corso   
+    stato: in corso    
     attori: [ agid, gdl-enti-locali, rtd, stakeholder ]
     descrizione: |
       La definizione di un modello di Smart Landscape Engine vedrà in prima battuta il coinvolgimento delle Amministrazioni e dei loro Responsabili della Transizione al Digitale, oltre che degli altri stakeholder citati precedentemente, al fine di effettuare un assessment dei progetti in atto e di ottenere contributi e dati territoriali in modo proattivo. Con la stipula di accordi di collaborazione si addiverrà ad una prima implementazione del modello attraverso la sperimentazione di innovazioni tecnologiche in contesti controllati che riproducano le dinamiche e le interazioni dell’ambiente urbano e non, anche attraverso attività di studio e di ricerca. 
@@ -1273,7 +1272,7 @@ it:
     subchapter: leve-coordinamento-territorio
     numero: 79
     nome: Costituzione di Unità di Program Management Office nazionali e regionali
-    stato: In corso
+    stato: in corso 
     attori: [ agid, regioni ]
     descrizione: | 
       Istituzione di unità di Program Management Office regionali (PMOR) dedicate alle attività regionali, con il compito di coordinare le attività operative oggetto dell’accordo regionale, sviluppare e manutenere il Master Plan di progetto e interagire con il Project Management Office Centrale AGID che può ingaggiare all’occorrenza i Centri di Competenza Tematici, (CDCT) che, oltre a fornire il supporto specialistico richiesto dal PMO, hanno anche il compito di sviluppare metodologie per la messa a disposizione degli asset necessari all’implementazione.
@@ -1317,7 +1316,7 @@ it:
     subchapter: rtd
     numero: 82
     nome: Il Responsabile della Transizione alla modalità digitale
-    stato: In corso
+    stato: in corso 
     attori: [ agid, dfp, pac, citta-metro ]
     descrizione: 
       AGID promuove la creazione di un gruppo di lavoro permanente partendo da dai RTD di PA Centrali, Regioni, Città Metropolitane e relativi Comuni capoluogo, per supportare le amministrazioni ed attuare gli obiettivi di transizione al digitale previsti dal Piano Triennale. Tale rete ha il compito di evidenziare e condividere fabbisogni, esperienze e criticità, al fine di definire strumenti, metodologie, soluzioni replicabili in tutte le PA. 
@@ -1425,7 +1424,7 @@ it:
     subchapter: prime-iniziative-cittadini-imprese
     numero: 89
     nome: Redazione Guida sui diritti di cittadinanza digitale
-    stato: In corso
+    stato: in corso 
     attori: [ agid ]
     descrizione: |
       Predisposizione di una Guida per i cittadini che illustri i principali diritti digitali contenuti nel CAD che regolano e semplificano il rapporto dei cittadini e delle imprese nei confronti della PA.  Il documento nasce per essere strumento, pratico e agile, a disposizione dei cittadini e delle imprese per informarsi ed essere aggiornati sui propri diritti digitali e sulle forme di tutela nel caso in cui le amministrazioni non consentano loro di esercitarli.
@@ -1444,7 +1443,7 @@ it:
     subchapter: prime-iniziative-cittadini-imprese
     numero: 90
     nome: La semplificazione amministrativa degli sportelli unici delle attività produttive e dell’edilizia 
-    stato: In corso  
+    stato: in corso   
     attori: [ dfp, agid, regioni, comuni, unioncamere, pa ]
     descrizione: |
       A partire dalla ricognizione dei procedimenti amministrativi, si definiranno, secondo un approccio BPM (Business process management), i processi inter-istituzionali per l’attuazione dei regimi amministrativi. Contestualmente andrà continuata l'attività di standardizzazione della modulistica per le restanti attività produttive con relativa elaborazione degli schemi dati XML.
@@ -1465,7 +1464,7 @@ en:
     subchapter: cloud-della-pa
     numero: 1
     nome: Attuazione del Programma nazionale di abilitazione al Cloud della PA
-    stato: In corso
+    stato: in corso 
     attori: [ agid, team-digitale, consip ]
     descrizione: |
       Definizione delle linee guida per lo sviluppo di servizi cloud native per il Cloud della PA e del Modello di abilitazione al Cloud della PA, nell’ambito del Programma.
@@ -1484,7 +1483,7 @@ en:
     subchapter: cloud-della-pa
     numero: 2
     nome: Migrazione dei sistemi informativi delle PA verso il cloud
-    stato: In corso
+    stato: in corso 
     attori: [ pa, agid, team-digitale ]
     descrizione: |
       Un gruppo di amministrazioni pilota individuate da AGID e Team per la trasformazione digitale eseguono i piani di migrazione dei sistemi informativi verso il Cloud della PA definiti nell’ambito del Programma nazionale di abilitazione al Cloud.
@@ -1501,7 +1500,7 @@ en:
     subchapter: cloud-della-pa
     numero: 3
     nome: Definizione dei requisiti tecnici delle infrastrutture IT
-    stato: In corso
+    stato: in corso 
     attori: [ agid, team-digitale ]
     descrizione: |
       AGID e Team per la trasformazione digitale definiscono lo scopo e le finalità dei PSN oltre a dettagliare i requisiti tecnici relativi alle caratteristiche dei siti geografici dei data center e alla gestione operativa e tecnica dei PSN.
@@ -1526,7 +1525,7 @@ en:
     subchapter: data-center
     numero: 4
     nome: Comunicazione dei risultati del censimento del Patrimonio ICT
-    stato: In corso
+    stato: in corso 
     attori: [ agid ]
     descrizione: |
       In seguito alla conclusione del censimento del patrimonio ICT della PA, AGID comunica alle PA l’esito della classificazione delle infrastrutture fisiche secondo le tre categorie (candidabili a PSN, Gruppo A, Gruppo B).
@@ -1540,7 +1539,7 @@ en:
     subchapter: data-center
     numero: 5
     nome: Avvio del consolidamento e della dismissione dei data center di Gruppo A
-    stato: In corso
+    stato: in corso 
     attori: [ agid, team-digitale, pa ]
     descrizione: |
       I soggetti detentori delle infrastrutture fisiche delle PA appartenenti al Gruppo A pianificano congiuntamente ad AGID e Team per la trasformazione digitale il consolidamento dei data center secondo quanto previsto dal Programma nazionale di abilitazione al Cloud della PA. AGID e Team per la trasformazione digitale assicurano il controllo e monitoraggio dei piani di migrazione trasmessi dalle PA.
@@ -1554,7 +1553,7 @@ en:
     subchapter: data-center
     numero: 6
     nome: Dismissione dei data center di Gruppo B 
-    stato: In corso
+    stato: in corso 
     attori: [ agid, team-digitale, pa ]
     descrizione: |
       Le infrastrutture fisiche delle PA appartenenti al Gruppo B provvedono alla migrazione al Cloud della PA secondo quanto previsto dal Programma nazionale di abilitazione al Cloud della PA. Le PA comunicano ad AGID il numero dei data center dismessi. AGID e Team per la trasformazione digitale elaborano i rapporti sullo stato di avanzamento dei data center dismessi.
@@ -1585,7 +1584,7 @@ en:
     subchapter: connettività
     numero: 8
     nome: Adeguamento della capacità di connessione della PA
-    stato: In corso
+    stato: in corso 
     attori: [ pa ]
     descrizione: |
       Le amministrazioni adeguano la propria capacità di connessione per garantire il completo dispiegamento dei servizi e delle piattaforme, adottando alternativamente:
@@ -1601,7 +1600,7 @@ en:
     subchapter: connettività
     numero: 9
     nome: Operatività dei nuovi contratti per la connettività S-RIPA per le sedi estere delle Pubbliche Amministrazioni
-    stato: In corso
+    stato: in corso 
     attori: [ sedi-estere-pa, consip ]
     descrizione: |
       Consip ha indetto la gara a procedura ristretta per la stipula di un accordo quadro avente ad oggetto la progettazione della rete e l’erogazione dei servizi di connettività della Rete Internazionale della PA, nonché servizi di sicurezza, VoIP, comunicazione evoluta e servizi professionali. È in corso l’aggiudicazione. L’accordo quadro avrà una durata di 60 mesi, decorrenti dalla data di attivazione. Successivamente, le sedi estere potranno procedere con la migrazione e l’utilizzo dei servizi della nuova S-RIPA. 
@@ -1615,7 +1614,7 @@ en:
     subchapter: connettività
     numero: 10
     nome: Realizzazione dei servizi in conformità alle Linee guida per la realizzazione di reti wi-fi pubbliche
-    stato: In corso
+    stato: in corso 
     attori: [ pa ]
     descrizione: |
       AGID pubblica in consultazione le Linee guida per l’utilizzo delle wi-fi che le pubbliche amministrazioni rendono accessibili ai cittadini negli uffici e nei luoghi pubblici, redatte anche sulla base delle migliori esperienze di wi-fi pubblico già in essere nella PA. 
@@ -1715,7 +1714,7 @@ en:
     subchapter: basi-dati-interessa-nazionale
     numero: 15
     nome: Implementazione standard Geo -DCAT-AP_IT
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa ]
     descrizione: |
       Il rilascio della nuova versione del Repertorio nazionale dei dati territoriali consente di procedere alle attività di sviluppo applicativo per l’implementazione dello standard GeoDCAT-AP, in coerenza con le indicazioni contenute nelle [Linee guida](http://geodati.gov.it/geoportale/documenti/12-documenti/277-linee-guida-nazionali-geodcat-ap) rese disponibili da AGID (obiettivo del precedente Piano Triennale 2017-2019).
@@ -1731,7 +1730,7 @@ en:
     subchapter: basi-dati-interessa-nazionale 
     numero: 16
     nome: Disponibilità Catalogo dei servizi (servizi.gov.it)
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, pa ]
     descrizione: |
       AGID implementa nuove funzionalità del Catalogo dei servizi (servizi.gov.it) volte alla completa interoperabilità con sistemi terzi e attua iniziative finalizzate al popolamento del Catalogo. Le PA procedono al popolamento del Catalogo sia in maniera diretta (attraverso backend), sia attraverso terze parti (API).
@@ -1747,7 +1746,7 @@ en:
     subchapter: basi-dati-interessa-nazionale
     numero: 17
     nome: Completamento del popolamento di ANPR
-    stato: In corso  
+    stato: in corso   
     attori: [ interno, sogei, comuni ]
     descrizione: |
       Completamento del popolamento di ANPR con i dati delle anagrafi comunali (APR) e delle anagrafi della popolazione residente all’estero (AIRE). 
@@ -1775,7 +1774,7 @@ en:
     subchapter: basi-dati-interessa-nazionale
     numero: 19
     nome: Adozione delle Linee Guida IPA
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa, gestori-pubblici-servizi ]
     descrizione: |
       AGID ha redatto le Linee Guida relative alle Regole tecniche da seguire per l’iscrizione e l’aggiornamento dei dati in IPA.  Le amministrazioni e i gestori di pubblici servizi devono attenersi alle regole prescritte.  
@@ -1863,7 +1862,7 @@ en:
     subchapter: vocabolari-controllati 
     numero: 25
     nome: Sviluppo ontologie
-    stato: In corso
+    stato: in corso 
     attori: [ agid, tutte-le-pa ]
     descrizione: |
       Sviluppo di ontologie su input e in collaborazione con:
@@ -1879,7 +1878,7 @@ en:
     subchapter: pdnd 
     numero: 26 
     nome: Progettazione della PDND, sperimentazione e prima applicazione della stessa
-    stato: In corso  
+    stato: in corso   
     attori: [ pcm, team-digitale, garante-privacy ]
     descrizione: |
       La PDND si basa sullo sviluppo di una Piattaforma big data e sulla costituzione di un team di data scientist, big data architect e data engineer. Il Team per la trasformazione digitale, ha il compito di gestire attivamente la fase di sviluppo concettuale e implementativo dell’infrastruttura, insieme a tutte le fasi del ciclo di vita del dato, dall’ingestione all’analisi e sviluppo di applicazioni. Il Team per la trasformazione digitale progetta e, sentito il Garante per la protezione dei dati personali, definisce le modalità realizzative e di uso della Piattaforma big data della PA attraverso:
@@ -1937,7 +1936,7 @@ en:
     subchapter: public-e-procurement   
     numero: 29
     nome: Messa in esercizio della BDOE
-    stato: In corso 
+    stato: in corso  
     attori: [ mit, agid, anac, pa-basi-dati, soggetti-aggregatori ]
     descrizione: |
       A seguito della messa in esercizio della BDOE da parte del MIT, saranno individuate le linee di intervento evolutive cui si dovranno adeguare le stazioni appaltanti per integrare le proprie piattaforme di acquisto alla BDOE.
@@ -1981,7 +1980,7 @@ en:
     subchapter: pagopa 
     numero: 32
     nome: Evoluzione tecnologica della piattaforma
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, team-digitale, bdi ]
     descrizione: |
       Continuo adeguamento tecnologico della piattaforma agli standard dei servizi di pagamento previsti dagli standard europei e internazionali in collaborazione e attraverso il coordinamento di Banca d’Italia per ottenere un miglioramento continuo dell’esperienza dei cittadini, delle pubbliche amministrazioni e dei Prestatori di Servizi di Pagamento. 
@@ -1995,7 +1994,7 @@ en:
     subchapter: pagopa   
     numero: 33 
     nome: Completamento dell’adesione alla piattaforma
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, team-digitale, soggetti-obbligati ]
     descrizione: |
       Completamento dell’attivazione dei servizi da parte di tutti i soggetti obbligati all’adesione alla piattaforma dei pagamenti entro i termini previsti dal CAD.
@@ -2010,7 +2009,7 @@ en:
     subchapter: pagopa   
     numero: 34
     nome: Monitoraggio tecnico e dell’attivazione dei servizi
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, team-digitale, soggetti-obbligati, prestatori-servizio-pagamenti ]
     descrizione: |
       AGID effettua sia il monitoraggio continuo dello stato di avanzamento dell’attivazione dei servizi da parte dei soggetti obbligati ad aderire a pagoPA, sia il monitoraggio continuo delle performance del sistema e dell’efficacia delle procedure operative, rispetto ad indicatori di qualità definiti. Rileva la presenza di problemi, individua le soluzioni e mette in atto azioni di accompagnamento.
@@ -2024,7 +2023,7 @@ en:
     subchapter: siope+
     numero: 35
     nome: Dispiegamento del sistema SIOPE+ 
-    stato: In corso  
+    stato: in corso   
     attori: [ rgs, bdi, agid, pa ]
     descrizione: |
       A fronte della conclusione delle fasi di sperimentazione, chiuse nel 2017, il sistema è andato a regime nel 2018 per tutti i Comuni, le Regioni, le ASL e le Aziende ospedaliere. Da gennaio 2019 entrano in SIOPE+ anche le Università, Enti di Ricerca, Autorità Portuali, Enti Parco e, con successivi decreti, verranno individuati gli ulteriori enti (scuole, istituti di formazione, ecc.).
@@ -2059,7 +2058,7 @@ en:
     subchapter: noipa
     numero: 37
     nome: Evoluzione del sistema NoiPA e valorizzazione del patrimonio informativo gestito
-    stato: In corso  
+    stato: in corso   
     attori: [ mef, agid, pa, dfp, inps ]
     descrizione: |
       Le attività previste sono:
@@ -2084,7 +2083,7 @@ en:
     subchapter: spid
     numero: 38
     nome: Linee Guida SPID 
-    stato: In corso  
+    stato: in corso   
     attori: [ agid ]
     descrizione: |
       Al fine di favorire l’avvio dell’iter per l’emanazione ai sensi dell’art 71 del CAD, AGID predispone e pubblica in consultazione Linee guida relative ai seguenti argomenti:
@@ -2112,7 +2111,7 @@ en:
     subchapter: spid
     numero: 39
     nome: Attività a seguito della notifica di SPID alla Commissione Europea
-    stato: In corso
+    stato: in corso 
     attori: [ agid, ce, stati-membri, pa ]
     descrizione: |
       Riconoscimento del sistema di identificazione elettronica SPID da parte degli altri Stati membri e possibilità di utilizzo per l’accesso ai servizi in rete della PA.
@@ -2126,7 +2125,7 @@ en:
     subchapter: spid
     numero: 40
     nome: Integrazione con le identità digitali a livello europeo
-    stato: In corso  
+    stato: in corso   
     attori: [ agid ]
     descrizione: |
       Le identità digitali, notificate ai sensi del regolamento eIDAS, consentiranno di accedere ai servizi offerti da tutti gli Stati membri dell’Unione Europea. Attraverso il progetto FICEP è in via di completamento il primo “server trasfrontaliero italiano” che consente circolarità delle identità digitali.  
@@ -2142,7 +2141,7 @@ en:
     subchapter: spid
     numero: 41
     nome: Analisi diffusione di SPID ai fini dello switch-off
-    stato: In corso 
+    stato: in corso  
     attori: [ agid ]
     descrizione: |
       AGID sviluppa uno studio sulla stabilità del sistema SPID ai fini del suo utilizzo esclusivo quale sistema di identificazione ai servizi online, ai sensi dell’art. 64 del CAD.
@@ -2156,7 +2155,7 @@ en:
     subchapter: cie
     numero: 42
     nome: Emissione della CIE all’estero
-    stato: In corso   
+    stato: in corso    
     attori: [ agid, interno, mae, comuni, ipzs ]
     descrizione: |
       Rendere le sedi di alcuni Consolati pilota in grado di accettare le richieste di CIE da parte degli italiani residenti all’estero.
@@ -2170,7 +2169,7 @@ en:
     subchapter: cie 
     numero: 43
     nome: Notifica eIDAS
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, interno, ipzs ]
     descrizione: |
       Riconoscimento della CIE come strumento di autenticazione ai servizi in rete della PA degli altri Stati membri della UE. Predisposizione da parte di AGID del processo previsto per la necessaria notifica alla Commissione Europea del sistema CIE come mezzo di identificazione elettronica riconosciuto tra gli Stati membri della UE, come previsto dall’art. 9 del Regolamento eIDAS e successiva Decisione Esecutiva EU 2015/1984.
@@ -2198,7 +2197,7 @@ en:
     subchapter: sgpa
     numero: 45 
     nome: Nuove Linee Guida per la formazione, gestione e conservazione dei documenti informatici 
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, conferenza-stato-regioni, garante-privacy, amministrazioni-partecipanti ]
     descrizione: |
       Attraverso l’analisi dettagliata delle regole tecniche vigenti, si intendono aggiornare le attuali Linee guida e addivenire ad un unicum che contempli tutti gli aspetti previsti all’art. 71 dal nuovo CAD (ex D.Lgs. 217/2017) in materia di formazione, gestione e conservazione del documento digitale. 
@@ -2231,7 +2230,7 @@ en:
     subchapter: poli-conservazione  
     numero: 47
     nome: Progetto di redazione di linee guida di interoperabilità tra sistemi di conservazione 
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, aid, notariato, acs, dg-archivi ]
     descrizione: |
       Gli attori condividono le esperienze maturate in materia di conservazione dei documenti informatici, con particolare attenzione alle soluzioni metodologiche, organizzative e tecniche adottate, nonché all’analisi delle tipologie di documenti e oggetti digitali (testo, immagini, filmati) prodotti e che dovranno essere oggetto di conservazione da parte della PA (formati, procedure di sicurezza, firme, dematerializzazione). È svolta una sperimentazione finalizzata a identificare e analizzare eventuali problematiche nella trasmissione di pacchetti di conservazione tra le parti e a individuare le modalità di comunicazione più idonee adottabili per la comunicazione tra diversi sistemi di conservazione. Gli attori definiscono infine uno schema architetturale e funzionale di procedure che consentano la conservazione permanente e le attività di scarto e di controllo su fascicoli e documenti che devono andare in conservazione. 
@@ -2250,7 +2249,7 @@ en:
     subchapter: poli-conservazione 
     numero: 48 
     nome: Progetto di dematerializzazione documenti della PA
-    stato: In corso
+    stato: in corso 
     attori: [ agid, pa ]
     descrizione: |
       Promuovere la piena digitalizzazione dell’attività amministrativa attraverso la progressiva dematerializzazione degli archivi correnti. Supportare le amministrazioni nell’individuazione di soluzioni e modelli organizzativi orientati alla completa digitalizzazione dei processi. Le amministrazioni comunicano ad AGID l’avvio e la conclusione del processo di dematerializzazione avviato all’interno di ciascuna Area Organizzativa Omogenea (AOO). AGID pubblica il primo report a fine 2021. 
@@ -2264,7 +2263,7 @@ en:
     subchapter: anpr
     numero: 49
     nome: Promozione della circolarità anagrafica
-    stato: In corso  
+    stato: in corso   
     attori: [ interno, agid, sogei, pa, gestori-pubblici-servizi, società-controllo-pubblico ]
     descrizione: |
       La linea di azione si sviluppa in due fasi:
@@ -2286,7 +2285,7 @@ en:
     subchapter: anpr
     numero: 50
     nome: Visura anagrafica e Certificazione anagrafica nazionale
-    stato: In corso  
+    stato: in corso   
     attori: [ interno, agid, sogei ]
     descrizione: |
       ANPR permette a tutti i cittadini di visualizzare, anche attraverso SPID, la propria situazione anagrafica (visura anagrafica), e quella della famiglia anagrafica in cui è inserito, consultabili tramite web app resa disponibile a livello nazionale.
@@ -2363,7 +2362,7 @@ en:
   - chapter: sicurezza-informatica 
     numero: 55
     nome: CERT-PA - ampliamento capacità operativa
-    stato: In corso  
+    stato: in corso   
     attori: [ agid ]
     descrizione: |
       CERT-PA, operante dal 2013, aumenterà progressivamente la sua capacità operativa, rafforzando l’infrastruttura ICT di erogazione dei servizi di base e potenziando il primo sistema informativo sulle minacce cibernetiche (Cyber Security Knowledge Base), anche attraverso l’implementazione delle soluzioni [Infosharing CERT-PA](https://portal.cert-pa.it/web/guest/login) e National Vulnerability Database(NVD).
@@ -2389,7 +2388,7 @@ en:
   - chapter: sicurezza-informatica  
     numero: 57
     nome: Adeguamento delle PA agli standard Trasmissione automatizzata IoC 
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, pa ]
     descrizione: |
       Definizione degli standard per la trasmissione automatizzata degli indicatori di compromissione (IoC), emanazione delle linee guida del modello architetturale per la trasmissione automatizzata degli IoC.
@@ -2405,7 +2404,7 @@ en:
   - chapter: sicurezza-informatica  
     numero: 58
     nome: Realizzazione piattaforma nazionale della PA per la trasmissione automatizzata degli IoC
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa ]
     descrizione: |
       AGID realizza, in via sperimentale, per le pubbliche amministrazioni, una piattaforma nazionale di trasmissione automatizzata degli IoC.
@@ -2418,7 +2417,7 @@ en:
   - chapter: sicurezza-informatica 
     numero: 59
     nome: Segnalazioni incidenti Informatici al CERT-PA
-    stato: In corso  
+    stato: in corso   
     attori: [ pa ]
     descrizione: |
       Tutte le pubbliche amministrazioni sono tenute a monitorare e segnalare prontamente al CERT-PA gli incidenti informatici e ogni situazione di potenziale rischio, utilizzando i canali di comunicazione riportati nella [sezione dedicata del sito AGID](http://www.agid.gov.it/agenda-digitale/infrastrutture-architetture/cert-pa). Per tutti i soggetti accreditati su Infosharing CERT-PA è disponibile un’apposita funzionalità di segnalazione. 
@@ -2431,7 +2430,7 @@ en:
   - chapter: sicurezza-informatica 
     numero: 60
     nome: Emanazione Linee Guida di sicurezza cibernetica per le PA 
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa ]
     descrizione: |
       A supporto e complemento delle Misure minime di sicurezza ICT, documento di natura prescrittiva che indirizza adempimenti tecnici puntuali, AGID emana documenti che indirizzano i temi strategici, organizzativi ed operativi necessari alle PA per innalzare il proprio livello di sensibilità, conoscenza, preparazione e capacità di risposta relativamente alla crescente minaccia cibernetica. 
@@ -2449,7 +2448,7 @@ en:
     subchapter: designers-italia
     numero: 61
     nome: Adeguamento alle Linee guida di design dei siti e servizi web delle PA 
-    stato: In corso  
+    stato: in corso   
     attori: [ pa ]
     descrizione: |
       Le PA centrali indicate nella [Determinazione AGID n.36/2018](https://www.agid.gov.it/sites/default/files/repository_files/36_-_dt_dg_n._36_-_12_feb_2018_-_riorganizzazione_dominio_gov_22.12.2017_003_1_4.pdf) e non ancora aderenti alle Linee guida di design, nonché le PA regionali e locali, comunicano  ad AGID la data entro cui termineranno i lavori di adeguamento.
@@ -2521,7 +2520,7 @@ en:
     subchapter: accessibilita
     numero: 66
     nome: Attuazione Direttiva europea 2016/2102 sull’accessibilità dei siti web
-    stato: In corso 
+    stato: in corso  
     attori: [ pa ]
     descrizione: |
       I siti web pubblicati dopo il mese di settembre 2018 dovranno essere aderenti agli adempimenti previsti dalla Direttiva europea recepita col D.Lgs. 106/2018.
@@ -2646,7 +2645,7 @@ en:
     subchapter: dominio-gov-it
     numero: 74
     nome: Supporto alla migrazione verso il dominio .edu e il dominio .it
-    stato: In corso 
+    stato: in corso  
     attori: [ miur, cnr, agid, pa-locali, istituzioni-scolastiche ]
     descrizione: |
       AGID, CNR e MIUR hanno costituito un tavolo di lavoro per supportare il passaggio degli istituti scolastici al dominio “.edu.it”. MIUR e CNR hanno predisposto una [pagina informativa](http://www.miur.gov.it/web/guest/nuovo-dominio-edu.it) di supporto. AGID ha pubblicato una [manifestazione d’interesse](https://www.agid.gov.it/sites/default/files/repository_files/manifestazioneinteresse_7set2018_uv.pdf) rivolta ai fornitori di servizi di gestione dei domini internet alle PA individuate dalla  Determinazione n.36/2018 per la richiesta di disponibilità a fornire, nel periodo transitorio, i servizi necessari alla corretta migrazione dei domini. 
@@ -2666,7 +2665,7 @@ en:
     subchapter: piattaforma-procurement
     numero: 75
     nome: Attivazione e sperimentazione della Piattaforma per gli appalti di innovazione
-    stato: In corso  
+    stato: in corso   
     attori: [ agid, stakeholder ]
     descrizione: |
       Quest’azione mira a rilasciare:
@@ -2684,7 +2683,7 @@ en:
     subchapter: piattaforma-procurement
     numero: 76
     nome: Promozione e monitoraggio degli appalti di innovazione
-    stato: In corso 
+    stato: in corso  
     attori: [ agid, pa ]
     descrizione: |
       Sollecitare le amministrazioni all’utilizzo delle pratiche per appalti di innovazione: consultazioni di mercato, procedure negoziate, dialogo competitivo, partenariato per l’innovazione a condividere le informazioni chiave, così da favorire:
@@ -2701,7 +2700,7 @@ en:
     subchapter: smart-landscape
     numero: 77
     nome: Definizione e implementazione del modello Smart Landscape 
-    stato: In corso   
+    stato: in corso    
     attori: [ agid, gdl-enti-locali, rtd, stakeholder ]
     descrizione: |
       La definizione di un modello di Smart Landscape Engine vedrà in prima battuta il coinvolgimento delle Amministrazioni e dei loro Responsabili della Transizione al Digitale, oltre che degli altri stakeholder citati precedentemente, al fine di effettuare un assessment dei progetti in atto e di ottenere contributi e dati territoriali in modo proattivo. Con la stipula di accordi di collaborazione si addiverrà ad una prima implementazione del modello attraverso la sperimentazione di innovazioni tecnologiche in contesti controllati che riproducano le dinamiche e le interazioni dell’ambiente urbano e non, anche attraverso attività di studio e di ricerca. 
@@ -2733,7 +2732,7 @@ en:
     subchapter: leve-coordinamento-territorio
     numero: 79
     nome: Costituzione di Unità di Program Management Office nazionali e regionali
-    stato: In corso
+    stato: in corso 
     attori: [ agid, regioni ]
     descrizione: | 
       Istituzione di unità di Program Management Office regionali (PMOR) dedicate alle attività regionali, con il compito di coordinare le attività operative oggetto dell’accordo regionale, sviluppare e manutenere il Master Plan di progetto e interagire con il Project Management Office Centrale AGID che può ingaggiare all’occorrenza i Centri di Competenza Tematici, (CDCT) che, oltre a fornire il supporto specialistico richiesto dal PMO, hanno anche il compito di sviluppare metodologie per la messa a disposizione degli asset necessari all’implementazione.
@@ -2777,7 +2776,7 @@ en:
     subchapter: rtd
     numero: 82
     nome: Il Responsabile della Transizione alla modalità digitale
-    stato: In corso
+    stato: in corso 
     attori: [ agid, dfp, pac, citta-metro ]
     descrizione: 
       AGID promuove la creazione di un gruppo di lavoro permanente partendo da dai RTD di PA Centrali, Regioni, Città Metropolitane e relativi Comuni capoluogo, per supportare le amministrazioni ed attuare gli obiettivi di transizione al digitale previsti dal Piano Triennale. Tale rete ha il compito di evidenziare e condividere fabbisogni, esperienze e criticità, al fine di definire strumenti, metodologie, soluzioni replicabili in tutte le PA. 
@@ -2885,7 +2884,7 @@ en:
     subchapter: prime-iniziative-cittadini-imprese
     numero: 89
     nome: Redazione Guida sui diritti di cittadinanza digitale
-    stato: In corso
+    stato: in corso 
     attori: [ agid ]
     descrizione: |
       Predisposizione di una Guida per i cittadini che illustri i principali diritti digitali contenuti nel CAD che regolano e semplificano il rapporto dei cittadini e delle imprese nei confronti della PA.  Il documento nasce per essere strumento, pratico e agile, a disposizione dei cittadini e delle imprese per informarsi ed essere aggiornati sui propri diritti digitali e sulle forme di tutela nel caso in cui le amministrazioni non consentano loro di esercitarli.
@@ -2904,7 +2903,7 @@ en:
     subchapter: prime-iniziative-cittadini-imprese
     numero: 90
     nome: La semplificazione amministrativa degli sportelli unici delle attività produttive e dell’edilizia 
-    stato: In corso  
+    stato: in corso   
     attori: [ dfp, agid, regioni, comuni, unioncamere, pa ]
     descrizione: |
       A partire dalla ricognizione dei procedimenti amministrativi, si definiranno, secondo un approccio BPM (Business process management), i processi inter-istituzionali per l’attuazione dei regimi amministrativi. Contestualmente andrà continuata l'attività di standardizzazione della modulistica per le restanti attività produttive con relativa elaborazione degli schemi dati XML.

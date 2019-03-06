@@ -6,19 +6,17 @@ it:
     liClass: 'Megamenu-item Megamenu-item--vert'
     subtitle: Gli assi portanti della trasformazione digitale
     subitems:
-    - title: Contesto normativo
-      url: /contesto-normativo/
     - title: Infrastrutture
       url: /infrastrutture/
     - title: Modello di interoperabilità
       url: /modello-di-interoperabilita/
-    - title: Dati della pa
+    - title: Dati della Pubblica Amministrazione
       url: /dati-della-pa/
     - title: Piattaforme
       url: /piattaforme/
     - title: Ecosistemi
       url: /ecosistemi/
-    - title: Sicurezza
+    - title: Sicurezza informatica
       url: /sicurezza/
     - title: Servizi digitali
       url: /servizi-digitali/
@@ -26,10 +24,6 @@ it:
       url: /modelli-e-strumenti-innovazione/
     - title: Governare la trasformazione digitale
       url: /governare-la-trasformazione-digitale/
-    - title: Razionalizzazione della spesa
-      url: /razionalizzazione-della-spesa/
-    - title: Indicazioni per le pa
-      url: /indicazioni-per-le-pa/
   - title: Le azioni
     url: /azioni/
   - title: Consultazioni pubbliche
