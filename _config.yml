@@ -18,8 +18,8 @@ title: Trasformazione Digitale
 description: "Piano Triennale per l'informatica nella Pubblica Amministrazione"
 author: AGID e Dipartimento per la Trasformazione Digitale
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pianotriennale-ict.italia.it"
+baseurl: "/pianotriennale-ict.italia.it" # the subpath of your site, e.g. /blog
+# url: "https://pianotriennale-ict.italia.it"
 piwik: 3
 google_analytics: 'UA-96140462-4'
 # Build settings
